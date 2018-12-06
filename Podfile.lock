@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.8.0)
+  - LBTAComponents (1.0.2)
+  - SnapKit (4.0.1)
+  - SwiftIconFont (3.0.0)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyJSON (4.2.0)
+  - TRON (4.2.1):
+    - Alamofire (~> 4.5)
+    - TRON/SwiftyJSON (= 4.2.1)
+  - TRON/Core (4.2.1):
+    - Alamofire (~> 4.5)
+  - TRON/SwiftyJSON (4.2.1):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0)
+    - TRON/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - LBTAComponents
+  - SnapKit (~> 4.0.0)
+  - SwiftIconFont
+  - SwiftKeychainWrapper
+  - SwiftyJSON
+  - TRON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - LBTAComponents
+    - SnapKit
+    - SwiftIconFont
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+    - TRON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  LBTAComponents: c4c8863e0ef6715e378300db148b96a09df656f7
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftIconFont: 2ba18554a77c44948dc35b561b344e3c23834a84
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  TRON: eb0f572d97dd51ec309a27bc785ec82148500512
+
+PODFILE CHECKSUM: 8f0e4bf61685c24a798fe4b941318a1a58a4ff57
+
+COCOAPODS: 1.6.0.beta.2
